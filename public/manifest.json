@@ -1,0 +1,17 @@
+{
+    "theme_color":"#fff",
+    "background_color":"#fff",
+    "display":"fullscreen",
+    "scope":"\/",
+    "start_url":"\/",
+    "name": "Zaistock",
+    "short_name":"Zaistock",
+    "icons":[
+       {
+          "src":"http:\/\/localhost\/zaistock\/public\/storage\/files\/Setting\/1675945710.png",
+          "sizes":"512x512",
+          "type":"image\/png",
+          "purpose":"any maskable"
+       }
+    ]
+ }
